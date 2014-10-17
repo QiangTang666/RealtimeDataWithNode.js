@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/javascript/smoothie.js"></script>
+    <script src="/javascript/jquery-1.10.2.js"></script>
+    <script src="/javascript/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="/css/jquery-ui-1.10.4.custom.min.css"></script>
+    <script src="/javascript/lineChartStream.js"></script>
+    <title>PMS Node Stream</title>
+    <style>
+        #draggable {
+            width: 150px;
+            height: 150px;
+            padding: 0.5em;
+        }
+    </style>
+    <script>
+        $(function () {
+            $("#draggable").draggable();
+        });
+    </script>
+</head>
+<body onload="onload()">
+    <div id="test" style="width:100%; height:100%">
+        <div id="draggable" class="ui-widget-content">
+            <canvas id="pmsprofile" width="564" height="221"></canvas>
+        </div>
+    </div>
+    
+</body>
+</html>

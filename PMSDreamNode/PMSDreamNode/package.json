@@ -1,0 +1,10 @@
+{
+  "name": "PMSDreamNode",
+  "version": "0.0.0",
+  "description": "PMSDreamNode",
+  "main": "server.js",
+  "author": {
+    "name": "qiang.tang",
+    "email": ""
+  }
+}

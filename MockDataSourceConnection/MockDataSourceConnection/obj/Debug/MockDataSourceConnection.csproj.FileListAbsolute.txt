@@ -1,0 +1,5 @@
+C:\Dev\DreamNode\MockDataSourceConnection\MockDataSourceConnection\bin\Debug\MockDataSourceConnection.dll
+C:\Dev\DreamNode\MockDataSourceConnection\MockDataSourceConnection\bin\Debug\MockDataSourceConnection.pdb
+C:\Dev\DreamNode\MockDataSourceConnection\MockDataSourceConnection\obj\Debug\MockDataSourceConnection.csprojResolveAssemblyReference.cache
+C:\Dev\DreamNode\MockDataSourceConnection\MockDataSourceConnection\obj\Debug\MockDataSourceConnection.dll
+C:\Dev\DreamNode\MockDataSourceConnection\MockDataSourceConnection\obj\Debug\MockDataSourceConnection.pdb
